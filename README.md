@@ -7,7 +7,6 @@ To use:
 3. From the Dropbox.com website, share your folder and copy the shared folder URL. 
 4. Code block 1, line 6: Add "&preview=" to the end of the URL and insert into script below (baseDropBoxSharefolder=).  It will look like: https://www.dropbox.com/sh/6icw00y0uuuiszc/AADIl61HVsZuzc5i3MuPZfv1a?dl=0&preview=
 5. Code block 2, line 5: Add your ArcGIS Online username, password and subdomain.
-6. A sample map output: https://edteam.maps.arcgis.com/home/webmap/viewer.html?webmap=561f05703fc8456d8ceb9240eeaf7e62
-7. Access your AGO account after running this script to find your new layer.  Createa new map and add the layer to it. Set sharing as needed.
+6. Access your AGO account after running this script to find your new layer.  Createa new map and add the layer to it. Set sharing as needed.
 
 -Tom, October 2018
